@@ -1,0 +1,8 @@
+print("2 + 3 * 4        =", 2 + 3 * 4)
+print("(2 + 3) * 4      =", (2 + 3) * 4)
+print("2 ** 3 ** 2      =", 2 ** 3 ** 2)
+print("-2 ** 2          =", -2 ** 2)
+print("10 - 4 - 3       =", 10 - 4 - 3)
+print("20 / 4 * 2       =", 20 / 4 * 2)
+print("5 + 3 > 7 and 2 < 1 or True =", 5 + 3 > 7 and 2 < 1 or True)
+print("not True or True =", not True or True)
